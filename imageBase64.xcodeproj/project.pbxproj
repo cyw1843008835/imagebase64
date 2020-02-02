@@ -16,6 +16,7 @@
 		D2031DD723E531E50086EC94 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D2031DD523E531E50086EC94 /* LaunchScreen.storyboard */; };
 		D2031DE223E531E50086EC94 /* imageBase64Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D2031DE123E531E50086EC94 /* imageBase64Tests.swift */; };
 		D2031DED23E531E50086EC94 /* imageBase64UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D2031DEC23E531E50086EC94 /* imageBase64UITests.swift */; };
+		D282CE3D23E6B0C200BA49FD /* StringList.swift in Sources */ = {isa = PBXBuildFile; fileRef = D282CE3C23E6B0C200BA49FD /* StringList.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,7 @@
 		D2031DE823E531E50086EC94 /* imageBase64UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = imageBase64UITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		D2031DEC23E531E50086EC94 /* imageBase64UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = imageBase64UITests.swift; sourceTree = "<group>"; };
 		D2031DEE23E531E50086EC94 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		D282CE3C23E6B0C200BA49FD /* StringList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StringList.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -109,6 +111,7 @@
 				D2031DD823E531E50086EC94 /* Info.plist */,
 				D2031DCB23E531E00086EC94 /* imageBase64.xcdatamodeld */,
 				D2031DD223E531E50086EC94 /* Preview Content */,
+				D282CE3C23E6B0C200BA49FD /* StringList.swift */,
 			);
 			path = imageBase64;
 			sourceTree = "<group>";
@@ -274,6 +277,7 @@
 				D2031DCA23E531E00086EC94 /* SceneDelegate.swift in Sources */,
 				D2031DCF23E531E00086EC94 /* ContentView.swift in Sources */,
 				D2031DCD23E531E00086EC94 /* imageBase64.xcdatamodeld in Sources */,
+				D282CE3D23E6B0C200BA49FD /* StringList.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
